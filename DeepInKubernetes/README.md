@@ -6,3 +6,4 @@
 - [08 | 白话容器基础（四）：重新认识Docker容器](./08.md)
 - [09 | 从容器到容器云：谈谈Kubernetes的本质](./09.md)
 - [10 | Kubernetes一键部署利器：kubeadm](./10.md)
+- [11 | 从0到1：搭建一个完整的Kubernetes集群](./11.md)
