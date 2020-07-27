@@ -18,3 +18,4 @@
 - [20 | 深入理解StatefulSet（三）：有状态应用实践](./20.md)
 - [21 | 容器化守护进程的意义：DaemonSet](./21.md)
 - [22 | 撬动离线业务：Job与CronJob](./22.md)
+- [23 | 声明式API与Kubernetes编程范式](./23.md)
